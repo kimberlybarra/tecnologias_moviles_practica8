@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_seccion"
+        android:textSize="18sp"/>
+
+    <Spinner
+        android:id="@+id/spinseccion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/seccion"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="@string/app_area"
+        android:textSize="18sp"/>
+
+    <Spinner
+        android:id="@+id/spinarea"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/asignaturas"/>
+
+    <EditText
+        android:id="@+id/editTextText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:hint="@string/app_tema"/>
+
+    <Button
+        android:id="@+id/btnregistrar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="@string/app_clase"/>
+    <Button
+        android:id="@+id/btnmostrar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Mostrar Datos"
+        android:background="#E0799C"/>
+
+</LinearLayout>

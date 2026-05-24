@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "961920798714",
+    "project_id": "estudiantesfb-4aa00",
+    "storage_bucket": "estudiantesfb-4aa00.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961920798714:android:3f75bc8ea13ff2397c9e43",
+        "android_client_info": {
+          "package_name": "com.kimberly.estudiantesfb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmnD0cb1uFMNZpaiEvzdhCePFWrX4CwTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

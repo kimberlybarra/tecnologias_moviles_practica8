@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "146198994840",
+    "project_id": "repositoriofb-7a6f8",
+    "storage_bucket": "repositoriofb-7a6f8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146198994840:android:bff28284b168cd102155ed",
+        "android_client_info": {
+          "package_name": "com.kimberly.repositoriofb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4govAPZyKkEvDxR-JvcaphpR7-oM8Sd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
